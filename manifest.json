@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "FCi",
-    "description": "Resumen de imagenes del thread.",
+    "description": "Esta extensión añade en la parte superior de Forocoches una lista de thumbnails con el resumen de las imagenes del tema.",
     "version": "2023.12.28",
     "permissions": [
         "activeTab",
@@ -26,5 +26,5 @@
           "js": ["contentScript.js"]
       }
     ],
-    "author": "Eligio Morgado Habas - eligio@gmail.com"
+    "author": "Eligio Morgado - eligio@gmail.com"
 }
